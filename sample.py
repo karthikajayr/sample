@@ -1,2 +1,2 @@
+print("karthik")
 print("chinmaya")
-
